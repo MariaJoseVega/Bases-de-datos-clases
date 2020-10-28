@@ -1,232 +1,168 @@
-"Country","pop_urb","rate_urb"
-"Afghanistan",26,3.37
-"Albania",62.1,1.69
-"Algeria",73.7,2.46
-"American Samoa",87.2,0.07
-"Andorra",87.9,-0.31
-"Angola",66.8,4.32
-"Anguilla",100,0.9
-"Antigua and Barbuda",24.4,0.55
-"Argentina",92.1,1.07
-"Armenia",63.3,0.22
-"Aruba",43.7,0.67
-"Australia",86.2,1.43
-"Austria",58.7,0.59
-"Azerbaijan",56.4,1.58
-"Bahamas, The",83.2,1.13
-"Bahrain",89.5,4.38
-"Bangladesh",38.2,3.17
-"Barbados",31.2,0.2
-"Belarus",79.5,0.44
-"Belgium",98.1,0.62
-"Belize",46,2.32
-"Benin",48.4,3.89
-"Bermuda",100,-0.44
-"Bhutan",42.3,2.98
-"Bolivia",70.1,1.97
-"Bosnia and Herzegovina",49,0.55
-"Botswana",70.9,2.87
-"Brazil",87.1,1.05
-"British Virgin Islands",48.5,2.42
-"Brunei",78.3,1.66
-"Bulgaria",75.7,-0.22
-"Burkina Faso",30.6,4.99
-"Burma",31.1,1.74
-"Burundi",13.7,5.68
-"Cabo Verde",66.7,1.97
-"Cambodia",24.2,3.25
-"Cameroon",57.6,3.63
-"Canada",81.6,0.97
-"Cayman Islands",100,1.27
-"Central African Republic",42.2,2.52
-"Chad",23.5,3.88
-"Chile",87.7,0.87
-"China",61.4,2.42
-"Colombia",81.4,1.22
-"Comoros",29.4,2.87
-"Congo, Democratic Republic of the",45.6,4.53
-"Congo, Republic of the",67.8,3.28
-"Cook Islands",75.5,0.37
-"Costa Rica",80.8,1.5
-"Cote d'Ivoire",51.7,3.38
-"Croatia",57.6,-0.08
-"Cuba",77.2,0.14
-"Curacao",89.1,0.62
-"Cyprus",66.8,0.75
-"Czechia",74.1,0.21
-"Denmark",88.1,0.51
-"Djibouti",78.1,1.67
-"Dominica",71.1,0.94
-"Dominican Republic",82.5,2.06
-"Ecuador",64.2,1.66
-"Egypt",42.8,1.86
-"El Salvador",73.4,1.57
-"Equatorial Guinea",73.1,4.28
-"Eritrea",41.3,3.86
-"Estonia",69.2,0.01
-"Eswatini",24.2,2.46
-"Ethiopia",21.7,4.63
-"Falkland Islands (Islas Malvinas)",78.5,0.76
-"Faroe Islands",42.4,0.74
-"Fiji",57.2,1.62
-"Finland",85.5,0.42
-"France",81,0.72
-"French Polynesia",62,1.01
-"Gabon",90.1,2.61
-"Gambia, The",62.6,4.07
-"Gaza Strip",76.7,3
-"Georgia",59.5,0.42
-"Germany",77.5,0.27
-"Ghana",57.3,3.34
-"Gibraltar",100,0.45
-"Greece",79.7,0.22
-"Greenland",87.3,0.42
-"Grenada",36.5,0.76
-"Guam",94.9,0.92
-"Guatemala",51.8,2.68
-"Guernsey",31,0.46
-"Guinea",36.5,3.54
-"Guinea-Bissau",44.2,3.41
-"Guyana",26.8,0.83
-"Haiti",57.1,2.9
-"Holy See (Vatican City)",100,-0.05
-"Honduras",58.4,2.75
-"Hong Kong",100,0.82
-"Hungary",71.9,0.07
-"Iceland",93.9,0.81
-"India",34.9,2.37
-"Indonesia",56.6,2.27
-"Iran",75.9,1.71
-"Iraq",70.9,3.06
-"Ireland",63.7,1.14
-"Isle of Man",52.9,0.89
-"Israel",92.6,1.64
-"Italy",71,0.29
-"Jamaica",56.3,0.82
-"Japan",91.8,-0.14
-"Jersey",31,0.46
-"Jordan",91.4,2.43
-"Kazakhstan",57.7,1.29
-"Kenya",28,4.23
-"Kiribati",55.6,3.19
-"Korea, North",62.4,0.82
-"Korea, South",81.4,0.3
-"Kuwait",100,1.78
-"Kyrgyzstan",36.9,2.03
-"Laos",36.3,3.28
-"Latvia",68.3,-0.93
-"Lebanon",88.9,0.75
-"Lesotho",29,2.83
-"Liberia",52.1,3.41
-"Libya",80.7,1.68
-"Liechtenstein",14.4,0.81
-"Lithuania",68,-0.31
-"Luxembourg",91.5,1.55
-"Macau",100,1.63
-"Madagascar",38.5,4.48
-"Malawi",17.4,4.19
-"Malaysia",77.2,2.13
-"Maldives",40.7,2.93
-"Mali",43.9,4.86
-"Malta",94.7,0.38
-"Marshall Islands",77.8,0.61
-"Mauritania",55.3,4.28
-"Mauritius",40.8,0.11
-"Mexico",80.7,1.59
-"Micronesia, Federated States of",22.9,1.05
-"Moldova",42.8,-0.07
-"Monaco",100,0.51
-"Mongolia",68.7,1.63
-"Montenegro",67.5,0.54
-"Montserrat",9.1,0.64
-"Morocco",63.5,2.14
-"Mozambique",37.1,4.35
-"Namibia",52,4.2
-"Nauru",100,-0.06
-"Nepal",20.6,3.15
-"Netherlands",92.2,0.74
-"New Caledonia",71.5,1.89
-"New Zealand",86.7,1.01
-"Nicaragua",59,1.45
-"Niger",16.6,4.27
-"Nigeria",52,4.23
-"Niue",46.2,1.69
-"North Macedonia",58.5,0.45
-"Northern Mariana Islands",91.8,0.29
-"Norway",83,1.4
-"Oman",86.3,5.25
-"Pakistan",37.2,2.53
-"Palau",81,1.77
-"Panama",68.4,2.06
-"Papua New Guinea",13.3,2.51
-"Paraguay",62.2,1.71
-"Peru",78.3,1.44
-"Philippines",47.4,1.99
-"Pitcairn Islands",0,NA
-"Poland",60,-0.25
-"Portugal",66.3,0.47
-"Puerto Rico",93.6,-0.14
-"Qatar",99.2,2.41
-"Romania",54.2,-0.38
-"Russia",74.8,0.18
-"Rwanda",17.4,2.86
-"Saint Helena, Ascension, and Tristan da Cunha",40.1,0.73
-"Saint Kitts and Nevis",30.8,0.92
-"Saint Lucia",18.8,0.8
-"Saint Pierre and Miquelon",90,0.36
-"Saint Vincent and the Grenadines",53,1.03
-"Samoa",17.9,-0.47
-"San Marino",97.5,0.67
-"Sao Tome and Principe",74.4,3.33
-"Saudi Arabia",84.3,2.17
-"Senegal",48.1,3.73
-"Serbia",56.4,-0.07
-"Seychelles",57.5,1.26
-"Sierra Leone",42.9,3.12
-"Singapore",100,1.39
-"Sint Maarten",100,1.56
-"Slovakia",53.8,0
-"Slovenia",55.1,0.56
-"Solomon Islands",24.7,3.91
-"Somalia",46.1,4.23
-"South Africa",67.4,1.97
-"South Sudan",20.2,4.1
-"Spain",80.8,0.33
-"Sri Lanka",18.7,0.85
-"Sudan",35.3,3.17
-"Suriname",66.1,0.9
-"Sweden",88,1.05
-"Switzerland",73.9,0.88
-"Syria",55.5,1.43
-"Taiwan",78.9,0.8
-"Tajikistan",27.5,2.62
-"Tanzania",35.2,5.22
-"Thailand",51.4,1.73
-"Timor-Leste",31.3,3.35
-"Togo",42.8,3.76
-"Tokelau",0,0
-"Tonga",23.1,0.71
-"Trinidad and Tobago",53.2,0.22
-"Tunisia",69.6,1.53
-"Turkey",76.1,2.04
-"Turkmenistan",52.5,2.46
-"Turks and Caicos Islands",93.6,1.77
-"Tuvalu",64,2.27
-"Uganda",25,5.7
-"Ukraine",69.6,-0.33
-"United Arab Emirates",87,1.71
-"United Kingdom",83.9,0.89
-"United States",82.7,0.95
-"Uruguay",95.5,0.46
-"Uzbekistan",50.4,1.28
-"Vanuatu",25.5,2.55
-"Venezuela",88.3,1.28
-"Vietnam",37.3,2.98
-"Virgin Islands",95.9,0.1
-"Wallis and Futuna",0,0
-"West Bank",76.7,3
-"Western Sahara",86.8,2.61
-"World",56.2,1.9
-"Yemen",37.9,4.06
-"Zambia",44.6,4.23
-"Zimbabwe",32.2,2.19
+"Country","Score","Electoralprocessandpluralism","Functio­ningofgovern­ment","Politicalpartici­pation","Politicalculture","Civilliberties","Regimetype","Region"
+"Norway",9.87,10,9.64,10,10,9.71,"Full democracy","Western Europe"
+"Iceland",9.58,10,9.29,8.89,10,9.71,"Full democracy","Western Europe"
+"Sweden",9.39,9.58,9.64,8.33,10,9.41,"Full democracy","Western Europe"
+"New Zealand",9.26,10,9.29,8.89,8.13,10,"Full democracy","Asia & Australasia"
+"Finland",9.25,10,8.93,8.89,8.75,9.71,"Full democracy","Western Europe"
+"Ireland",9.24,10,7.86,8.33,10,10,"Full democracy","Western Europe"
+"Denmark",9.22,10,9.29,8.33,9.38,9.12,"Full democracy","Western Europe"
+"Canada",9.22,9.58,9.64,7.78,9.38,9.71,"Full democracy","North America"
+"Australia",9.09,10,8.93,7.78,8.75,10,"Full democracy","Asia & Australasia"
+"Switzerland",9.03,9.58,9.29,7.78,9.38,9.12,"Full democracy","Western Europe"
+"Netherlands",9.01,9.58,9.29,8.33,8.75,9.12,"Full democracy","Western Europe"
+"Luxembourg",8.81,10,8.93,6.67,8.75,9.71,"Full democracy","Western Europe"
+"Germany",8.68,9.58,8.57,8.33,7.5,9.41,"Full democracy","Western Europe"
+"United Kingdom",8.52,9.58,7.5,8.89,7.5,9.12,"Full democracy","Western Europe"
+"Uruguay",8.38,10,8.57,6.11,7.5,9.71,"Full democracy","Latin America"
+"Austria",8.29,9.58,7.86,8.33,6.88,8.82,"Full democracy","Western Europe"
+"Spain",8.29,9.58,7.14,7.78,8.13,8.82,"Full democracy","Western Europe"
+"Mauritius",8.22,9.17,8.21,5.56,8.75,9.41,"Full democracy","Sub-Saharan Africa"
+"Costa Rica",8.13,9.58,7.5,6.67,7.5,9.41,"Full democracy","Latin America"
+"France",8.12,9.58,7.86,7.78,6.88,8.53,"Full democracy","Western Europe"
+"Chile",8.08,9.58,8.57,5,8.13,9.12,"Full democracy","Latin America"
+"Portugal",8.03,9.58,7.86,6.11,7.5,9.12,"Full democracy","Western Europe"
+"South Korea",8,9.17,7.86,7.22,7.5,8.24,"Flawed democracy","Asia & Australasia"
+"Japan",7.99,8.75,8.21,6.67,7.5,8.82,"Flawed democracy","Asia & Australasia"
+"United States",7.96,9.17,7.14,7.78,7.5,8.24,"Flawed democracy","North America"
+"Malta",7.95,9.17,7.5,6.11,8.13,8.82,"Flawed democracy","Western Europe"
+"Estonia",7.9,9.58,7.86,6.67,6.88,8.53,"Flawed democracy","Eastern Europe"
+"Israel",7.86,9.17,7.86,8.89,7.5,5.88,"Flawed democracy","Middle East & North Africa"
+"Botswana",7.81,9.17,7.14,6.11,7.5,9.12,"Flawed democracy","Sub-Saharan Africa"
+"Cape Verde",7.78,9.17,7.36,6.67,6.88,8.82,"Flawed democracy","Sub-Saharan Africa"
+"Taiwan",7.73,9.58,8.21,6.11,5.63,9.12,"Flawed democracy","Asia & Australasia"
+"Czech Republic",7.69,9.58,6.79,6.67,6.88,8.53,"Flawed democracy","Eastern Europe"
+"Belgium",7.64,9.58,8.21,5,6.88,8.53,"Flawed democracy","Western Europe"
+"Cyprus",7.59,9.17,6.43,6.67,6.88,8.82,"Flawed democracy","Western Europe"
+"Italy",7.52,9.58,6.07,7.78,6.25,7.94,"Flawed democracy","Western Europe"
+"Slovenia",7.5,9.58,6.79,6.67,6.25,8.24,"Flawed democracy","Eastern Europe"
+"Lithuania",7.5,9.58,6.43,6.11,6.25,9.12,"Flawed democracy","Eastern Europe"
+"Latvia",7.49,9.58,6.07,6.11,6.88,8.82,"Flawed democracy","Eastern Europe"
+"Greece",7.43,9.58,4.86,6.67,7.5,8.53,"Flawed democracy","Western Europe"
+"South Africa",7.24,7.42,7.5,8.33,5,7.94,"Flawed democracy","Sub-Saharan Africa"
+"Timor-Leste",7.19,9.58,6.29,5.56,6.88,7.65,"Flawed democracy","Asia & Australasia"
+"Slovakia",7.17,9.58,7.14,5.56,5.63,7.94,"Flawed democracy","Eastern Europe"
+"Malaysia",7.16,9.17,7.86,6.67,6.25,5.88,"Flawed democracy","Asia & Australasia"
+"Trinidad and Tobago",7.16,9.58,7.14,6.11,5.63,7.35,"Flawed democracy","Latin America"
+"Colombia",7.13,9.17,6.79,5.56,5.63,8.53,"Flawed democracy","Latin America"
+"Panama",7.05,9.58,6.07,6.67,5,7.94,"Flawed democracy","Latin America"
+"Bulgaria",7.03,9.17,6.43,7.22,4.38,7.94,"Flawed democracy","Eastern Europe"
+"Argentina",7.02,9.17,5.36,6.11,6.25,8.24,"Flawed democracy","Latin America"
+"Suriname",6.98,9.17,6.43,6.67,5,7.65,"Flawed democracy","Latin America"
+"Jamaica",6.96,8.75,7.14,4.44,6.25,8.24,"Flawed democracy","Latin America"
+"India",6.9,8.67,6.79,6.67,5.63,6.76,"Flawed democracy","Asia & Australasia"
+"Brazil",6.86,9.58,5.36,6.11,5,8.24,"Flawed democracy","Latin America"
+"Tunisia",6.72,9.17,5.71,7.22,5.63,5.88,"Flawed democracy","Middle East & North Africa"
+"Philippines",6.64,9.17,5.36,7.22,4.38,7.06,"Flawed democracy","Asia & Australasia"
+"Ghana",6.63,8.33,5.71,6.67,6.25,6.18,"Flawed democracy","Sub-Saharan Africa"
+"Hungary",6.63,8.75,6.07,5,6.25,7.06,"Flawed democracy","Eastern Europe"
+"Poland",6.62,9.17,6.07,6.11,4.38,7.35,"Flawed democracy","Eastern Europe"
+"Peru",6.6,9.17,5,5.56,5.63,7.65,"Flawed democracy","Latin America"
+"Croatia",6.57,9.17,6.07,5.56,5,7.06,"Flawed democracy","Eastern Europe"
+"Dominican Republic",6.54,9.17,5.36,6.11,5,7.06,"Flawed democracy","Latin America"
+"Lesotho",6.54,9.17,4.5,6.67,5.63,6.76,"Flawed democracy","Sub-Saharan Africa"
+"Mongolia",6.5,9.17,5.71,5.56,5,7.06,"Flawed democracy","Asia & Australasia"
+"Romania",6.49,9.17,5.71,5.56,4.38,7.65,"Flawed democracy","Eastern Europe"
+"Indonesia",6.48,7.92,7.14,6.11,5.63,5.59,"Flawed democracy","Asia & Australasia"
+"Namibia",6.43,6.58,5.36,6.67,5.63,7.94,"Flawed democracy","Sub-Saharan Africa"
+"Serbia",6.41,8.25,5.36,6.11,5,7.35,"Flawed democracy","Eastern Europe"
+"Ecuador",6.33,8.75,5.36,6.11,4.38,7.06,"Flawed democracy","Latin America"
+"Thailand",6.32,7.42,5.36,6.11,6.25,6.47,"Flawed democracy","Asia & Australasia"
+"Sri Lanka",6.27,7,6.07,5.56,6.25,6.47,"Flawed democracy","Asia & Australasia"
+"Paraguay",6.24,8.75,5.71,5,4.38,7.35,"Flawed democracy","Latin America"
+"El Salvador",6.15,9.17,4.64,6.11,3.75,7.06,"Flawed democracy","Latin America"
+"Guyana",6.15,6.92,5.36,6.11,5,7.35,"Flawed democracy","Latin America"
+"Mexico",6.09,7.83,6.07,7.22,3.13,6.18,"Flawed democracy","Latin America"
+"Papua New Guinea",6.03,6.92,6.07,3.89,5.63,7.65,"Flawed democracy","Asia & Australasia"
+"Hong Kong",6.02,3.58,4.36,6.11,7.5,8.53,"Flawed democracy","Asia & Australasia"
+"Singapore",6.02,3.92,7.86,5,6.25,7.06,"Flawed democracy","Asia & Australasia"
+"North Macedonia",5.97,7,5.36,6.67,3.75,7.06,"Hybrid regime","Eastern Europe"
+"Ukraine",5.9,7.42,2.71,6.67,6.25,6.47,"Hybrid regime","Eastern Europe"
+"Albania",5.89,7,5.36,4.44,5,7.65,"Hybrid regime","Eastern Europe"
+"Bangladesh",5.88,7.83,6.07,6.11,4.38,5,"Hybrid regime","Asia & Australasia"
+"Fiji",5.85,6.58,5.36,6.11,5.63,5.59,"Hybrid regime","Asia & Australasia"
+"Senegal",5.81,6.08,6.07,4.44,6.25,6.18,"Hybrid regime","Sub-Saharan Africa"
+"Moldova",5.75,6.58,4.64,6.11,4.38,7.06,"Hybrid regime","Eastern Europe"
+"Montenegro",5.65,5.67,5.36,6.11,4.38,6.76,"Hybrid regime","Eastern Europe"
+"Madagascar",5.64,7.92,3.57,6.11,5.63,5,"Hybrid regime","Sub-Saharan Africa"
+"Armenia",5.54,7.5,5.36,6.11,3.13,5.59,"Hybrid regime","Eastern Europe"
+"Malawi",5.5,6.08,4.29,5,6.25,5.88,"Hybrid regime","Sub-Saharan Africa"
+"Liberia",5.45,7.42,3.07,5.56,5.63,5.59,"Hybrid regime","Sub-Saharan Africa"
+"Georgia",5.42,7.83,3.21,6.11,4.38,5.59,"Hybrid regime","Eastern Europe"
+"Honduras",5.42,7.83,4.29,4.44,4.38,6.18,"Hybrid regime","Latin America"
+"Bhutan",5.3,8.75,6.79,2.78,4.38,3.82,"Hybrid regime","Asia & Australasia"
+"Nepal",5.28,4.83,5.36,5,5.63,5.59,"Hybrid regime","Asia & Australasia"
+"Guatemala",5.26,6.92,4.64,3.89,4.38,6.47,"Hybrid regime","Latin America"
+"Kenya",5.18,3.5,5.71,6.67,5.63,4.41,"Hybrid regime","Sub-Saharan Africa"
+"Tanzania",5.16,5.75,5,5,5.63,4.41,"Hybrid regime","Sub-Saharan Africa"
+"Morocco",5.1,5.25,4.64,5.56,5.63,4.41,"Hybrid regime","Middle East & North Africa"
+"Benin",5.09,4.67,5.71,4.44,5.63,5,"Hybrid regime","Sub-Saharan Africa"
+"Zambia",5.09,4.75,2.93,4.44,6.88,6.47,"Hybrid regime","Sub-Saharan Africa"
+"Uganda",5.02,4.33,3.57,4.44,6.88,5.88,"Hybrid regime","Sub-Saharan Africa"
+"Mali",4.92,6.42,3.07,3.89,5.63,5.59,"Hybrid regime","Sub-Saharan Africa"
+"Kyrgyzstan",4.89,6.08,2.93,6.67,3.75,5,"Hybrid regime","Eastern Europe"
+"Bosnia and Herzegovina",4.86,6.17,2.93,5.56,3.75,5.88,"Hybrid regime","Eastern Europe"
+"Sierra Leone",4.86,6.58,2.86,3.33,6.25,5.29,"Hybrid regime","Sub-Saharan Africa"
+"Bolivia",4.84,4.75,3.93,5,3.75,6.76,"Hybrid regime","Latin America"
+"Haiti",4.57,4.75,2.07,3.89,6.25,5.88,"Hybrid regime","Latin America"
+"Lebanon",4.36,3.92,1.5,6.67,5,4.71,"Hybrid regime","Middle East & North Africa"
+"Gambia",4.33,4,4.29,3.33,5.63,4.41,"Hybrid regime","Sub-Saharan Africa"
+"Pakistan",4.25,6.08,5.71,2.22,2.5,4.71,"Hybrid regime","Asia & Australasia"
+"Nigeria",4.12,5.17,3.93,3.33,3.75,4.41,"Hybrid regime","Sub-Saharan Africa"
+"Turkey",4.09,3.08,5,5,5,2.35,"Hybrid regime","Western Europe"
+"Ivory Coast",4.05,4.33,2.86,3.33,5.63,4.12,"Hybrid regime","Sub-Saharan Africa"
+"Burkina Faso",4.04,3.92,2.71,4.44,5,4.12,"Hybrid regime","Sub-Saharan Africa"
+"Algeria",4.01,3.08,2.86,5,5,4.12,"Hybrid regime","Middle East & North Africa"
+"Jordan",3.93,3.58,4.29,3.89,4.38,3.53,"Authoritarian","Middle East & North Africa"
+"Kuwait",3.93,3.58,4.29,3.89,4.38,3.53,"Authoritarian","Middle East & North Africa"
+"Mauritania",3.92,3.5,3.57,5,3.13,4.41,"Authoritarian","Sub-Saharan Africa"
+"Palestine",3.89,3.33,0.14,7.78,4.38,3.82,"Authoritarian","Middle East & North Africa"
+"Iraq",3.74,5.25,0,6.67,5,1.76,"Authoritarian","Middle East & North Africa"
+"Angola",3.72,2.25,2.86,5.56,5,2.94,"Authoritarian","Sub-Saharan Africa"
+"Mozambique",3.65,2.58,2.14,5,5,3.53,"Authoritarian","Sub-Saharan Africa"
+"Gabon",3.61,2.58,2.21,4.44,5,3.82,"Authoritarian","Sub-Saharan Africa"
+"Myanmar",3.55,3.08,3.93,2.78,5.63,2.35,"Authoritarian","Asia & Australasia"
+"Nicaragua",3.55,1.25,2.86,3.89,5.63,4.12,"Authoritarian","Latin America"
+"Cambodia",3.53,0.83,4.64,3.33,5.63,3.24,"Authoritarian","Asia & Australasia"
+"Ethiopia",3.44,0.42,3.57,5.56,5,2.65,"Authoritarian","Sub-Saharan Africa"
+"Togo",3.3,3.17,1.79,3.33,5,3.24,"Authoritarian","Sub-Saharan Africa"
+"Niger",3.29,2.92,1.14,3.33,4.38,4.71,"Authoritarian","Sub-Saharan Africa"
+"Qatar",3.19,0,4.29,2.22,5.63,3.82,"Authoritarian","Middle East & North Africa"
+"Rwanda",3.16,1.42,4.29,2.78,4.38,2.94,"Authoritarian","Sub-Saharan Africa"
+"Zimbabwe",3.16,0,2.5,4.44,5.63,3.24,"Authoritarian","Sub-Saharan Africa"
+"Comoros",3.15,2.08,2.21,3.89,3.75,3.82,"Authoritarian","Sub-Saharan Africa"
+"Eswatini",3.14,0.92,2.86,2.78,5.63,3.53,"Authoritarian","Sub-Saharan Africa"
+"Guinea",3.14,3.5,0.43,4.44,4.38,2.94,"Authoritarian","Sub-Saharan Africa"
+"Republic of the Congo",3.11,2.17,2.5,3.89,3.75,3.24,"Authoritarian","Sub-Saharan Africa"
+"Russia",3.11,2.17,1.79,5,2.5,4.12,"Authoritarian","Eastern Europe"
+"Vietnam",3.08,0,3.21,3.89,5.63,2.65,"Authoritarian","Asia & Australasia"
+"Egypt",3.06,2.67,3.21,3.33,3.75,2.35,"Authoritarian","Middle East & North Africa"
+"Oman",3.06,0.08,3.93,2.78,4.38,4.12,"Authoritarian","Middle East & North Africa"
+"Kazakhstan",2.94,0.5,2.14,4.44,4.38,3.24,"Authoritarian","Eastern Europe"
+"Venezuela",2.88,0,1.79,5,4.38,3.24,"Authoritarian","Latin America"
+"Afghanistan",2.85,3.42,0.64,3.89,2.5,3.82,"Authoritarian","Asia & Australasia"
+"Cameroon",2.85,1.67,2.5,3.33,4.38,2.35,"Authoritarian","Sub-Saharan Africa"
+"Cuba",2.84,0,3.57,3.33,4.38,2.94,"Authoritarian","Latin America"
+"Djibouti",2.77,0.42,1.29,3.89,5.63,2.65,"Authoritarian","Sub-Saharan Africa"
+"United Arab Emirates",2.76,0,3.93,2.22,5,2.65,"Authoritarian","Middle East & North Africa"
+"Azerbaijan",2.75,0.5,3.21,2.78,3.75,3.53,"Authoritarian","Eastern Europe"
+"Sudan",2.7,0,1.79,5.56,5,1.18,"Authoritarian","Middle East & North Africa"
+"Guinea-Bissau",2.63,4.92,0,2.78,3.13,2.35,"Authoritarian","Sub-Saharan Africa"
+"Bahrain",2.55,0.83,2.71,2.78,4.38,2.06,"Authoritarian","Middle East & North Africa"
+"Belarus",2.48,0.92,2,2.78,4.38,2.35,"Authoritarian","Eastern Europe"
+"Iran",2.38,0,2.86,4.44,3.13,1.47,"Authoritarian","Middle East & North Africa"
+"Eritrea",2.37,0,2.14,1.67,6.88,1.18,"Authoritarian","Sub-Saharan Africa"
+"China",2.26,0,4.29,3.33,2.5,1.18,"Authoritarian","Asia & Australasia"
+"Burundi",2.15,0,0.07,3.33,5,2.35,"Authoritarian","Sub-Saharan Africa"
+"Laos",2.14,0,2.86,1.67,5,1.18,"Authoritarian","Asia & Australasia"
+"Libya",2.02,0,0,2.78,4.38,2.94,"Authoritarian","Middle East & North Africa"
+"Uzbekistan",2.01,0.08,1.86,2.22,5,0.88,"Authoritarian","Eastern Europe"
+"Yemen",1.95,0,0,3.89,5,0.88,"Authoritarian","Middle East & North Africa"
+"Saudi Arabia",1.93,0,2.86,2.22,3.13,1.47,"Authoritarian","Middle East & North Africa"
+"Tajikistan",1.93,0.08,0.79,1.67,6.25,0.88,"Authoritarian","Eastern Europe"
+"Equatorial Guinea",1.92,0,0.43,3.33,4.38,1.47,"Authoritarian","Sub-Saharan Africa"
+"Turkmenistan",1.72,0,0.79,2.22,5,0.59,"Authoritarian","Eastern Europe"
+"Chad",1.61,0,0,1.67,3.75,2.65,"Authoritarian","Sub-Saharan Africa"
+"Syria",1.43,0,0,2.78,4.38,0,"Authoritarian","Middle East & North Africa"
+"Central African Republic",1.32,1.25,0,1.11,1.88,2.35,"Authoritarian","Sub-Saharan Africa"
+"Democratic Republic of the Congo",1.13,0,0,1.67,3.13,0.88,"Authoritarian","Sub-Saharan Africa"
+"North Korea",1.08,0,2.5,1.67,1.25,0,"Authoritarian","Asia & Australasia"
